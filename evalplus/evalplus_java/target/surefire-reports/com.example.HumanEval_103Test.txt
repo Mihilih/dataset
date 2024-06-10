@@ -1,0 +1,78 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_103Test
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 18, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.HumanEval_103Test
+testRoundedAvg10(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg10(HumanEval_103Test.java:55)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg10(HumanEval_103Test.java:55)
+
+testRoundedAvg11(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg11(HumanEval_103Test.java:60)
+
+testRoundedAvg12(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg12(HumanEval_103Test.java:65)
+
+testRoundedAvg13(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg13(HumanEval_103Test.java:70)
+
+testRoundedAvg14(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg14(HumanEval_103Test.java:75)
+
+testRoundedAvg15(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg15(HumanEval_103Test.java:80)
+
+testRoundedAvg16(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg16(HumanEval_103Test.java:85)
+
+testRoundedAvg17(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg17(HumanEval_103Test.java:90)
+
+testRoundedAvg18(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg18(HumanEval_103Test.java:95)
+
+testRoundedAvg1(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg1(HumanEval_103Test.java:10)
+
+testRoundedAvg2(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg2(HumanEval_103Test.java:15)
+
+testRoundedAvg3(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg3(HumanEval_103Test.java:20)
+
+testRoundedAvg4(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg4(HumanEval_103Test.java:25)
+
+testRoundedAvg5(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg5(HumanEval_103Test.java:30)
+
+testRoundedAvg6(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg6(HumanEval_103Test.java:35)
+
+testRoundedAvg7(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg7(HumanEval_103Test.java:40)
+
+testRoundedAvg8(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg8(HumanEval_103Test.java:45)
+
+testRoundedAvg9(com.example.HumanEval_103Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_103
+	at com.example.HumanEval_103Test.testRoundedAvg9(HumanEval_103Test.java:50)
+

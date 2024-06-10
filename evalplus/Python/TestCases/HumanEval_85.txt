@@ -1,0 +1,8 @@
+test_0: self.assertEqual(88, add([4, 88]))
+test_1: self.assertEqual(122, add([4, 5, 6, 7, 2, 122]))
+test_2: self.assertEqual(0, add([4, 0, 6, 7]))
+test_3: self.assertEqual(12, add([4, 4, 6, 8]))
+test_4: self.assertEqual(8, add([2, 3, 6, 8]))
+test_5: self.assertEqual(0, add([3, 5, 7, 9]))
+test_6: self.assertEqual(12, add([2, 4, 6, 8]))
+test_7: self.assertEqual(66, add([5, 3, 21, 64, 3, 2, 64, 1, 1]))

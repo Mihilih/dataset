@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.HumanEval_27Test" time="0" tests="6" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/test-classes:/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/classes:/Users/alibrahimzada/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/alibrahimzada/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk@11/11.0.19/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/surefire/surefirebooter6052732100926489616.jar /Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/surefire 2023-07-25T11-43-44_620-jvmRun1 surefire16618021492207608731tmp surefire_07620586763903104396tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/test-classes:/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/classes:/Users/alibrahimzada/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/alibrahimzada/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/alibrahimzada"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="/opt/homebrew/Cellar/openjdk@11/11.0.19/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/surefire/surefirebooter6052732100926489616.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.19+0"/>
+    <property name="user.name" value="alibrahimzada"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="13.4.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/alibrahimzada/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/7v/x94xqh117b57n4p7hr_3whs80000gn/T/"/>
+    <property name="java.version" value="11.0.19"/>
+    <property name="user.dir" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/alibrahimzada/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="11.0.19+0"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="maven.test.failure.ignore" value="true"/>
+  </properties>
+  <testcase name="testFlipCase1" classname="com.example.HumanEval_27Test" time="0"/>
+  <testcase name="testFlipCase2" classname="com.example.HumanEval_27Test" time="0"/>
+  <testcase name="testFlipCase3" classname="com.example.HumanEval_27Test" time="0"/>
+  <testcase name="testFlipCase4" classname="com.example.HumanEval_27Test" time="0"/>
+  <testcase name="testFlipCase5" classname="com.example.HumanEval_27Test" time="0">
+    <failure message="expected:&lt;...ICK bROWN fox jumpΜΧ[ΗΙ]s oVER THE LAZY DOGএ...&gt; but was:&lt;...ICK bROWN fox jumpΜΧ[ῌ]s oVER THE LAZY DOGএ...&gt;" type="org.junit.ComparisonFailure"><![CDATA[org.junit.ComparisonFailure: expected:<...ICK bROWN fox jumpΜΧ[ΗΙ]s oVER THE LAZY DOGএ...> but was:<...ICK bROWN fox jumpΜΧ[ῌ]s oVER THE LAZY DOGএ...>
+	at com.example.HumanEval_27Test.testFlipCase5(HumanEval_27Test.java:28)
+]]></failure>
+  </testcase>
+  <testcase name="testFlipCase6" classname="com.example.HumanEval_27Test" time="0"/>
+</testsuite>

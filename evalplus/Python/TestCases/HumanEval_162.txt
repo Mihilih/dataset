@@ -1,0 +1,8 @@
+test_0: self.assertEqual("3e25960a79dbc69b674cd4ec67a72c62", string_to_md5('Hello world'))
+test_1: self.assertEqual(None, string_to_md5(''))
+test_2: self.assertEqual("0ef78513b0cb8cef12743f5aeb35f888", string_to_md5('A B C'))
+test_3: self.assertEqual("5f4dcc3b5aa765d61d8327deb882cf99", string_to_md5('password'))
+test_4: self.assertEqual("0dbb501bb9d84c751d2cf6394d9308c0", string_to_md5('5873hajsdklh'))
+test_5: self.assertEqual(None, string_to_md5(''))
+test_6: self.assertEqual("68b815d9746af477c06423c983860af9", string_to_md5('This is a long string to hash to MD5'))
+test_7: self.assertEqual("de770a3b085331041645531bd9be7d70", string_to_md5(' \t \n \r  '))

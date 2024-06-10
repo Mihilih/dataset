@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_10Test
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 12, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.example.HumanEval_10Test
+testMakePalindrome10(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome10(HumanEval_10Test.java:59)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome10(HumanEval_10Test.java:59)
+
+testMakePalindrome11(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome11(HumanEval_10Test.java:64)
+
+testMakePalindrome0(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome0(HumanEval_10Test.java:9)
+
+testMakePalindrome1(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome1(HumanEval_10Test.java:14)
+
+testMakePalindrome2(com.example.HumanEval_10Test)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome2(HumanEval_10Test.java:19)
+
+testMakePalindrome3(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome3(HumanEval_10Test.java:24)
+
+testMakePalindrome4(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome4(HumanEval_10Test.java:29)
+
+testMakePalindrome5(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome5(HumanEval_10Test.java:34)
+
+testMakePalindrome6(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome6(HumanEval_10Test.java:39)
+
+testMakePalindrome7(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome7(HumanEval_10Test.java:44)
+
+testMakePalindrome8(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome8(HumanEval_10Test.java:49)
+
+testMakePalindrome9(com.example.HumanEval_10Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_10
+	at com.example.HumanEval_10Test.testMakePalindrome9(HumanEval_10Test.java:54)
+

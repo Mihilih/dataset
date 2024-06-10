@@ -1,0 +1,8 @@
+test_0: self.assertEqual("1", solve(1000))
+test_1: self.assertEqual("110", solve(150))
+test_2: self.assertEqual("1100", solve(147))
+test_3: self.assertEqual("1001", solve(333))
+test_4: self.assertEqual("10010", solve(963))
+test_5: self.assertEqual("1", solve(1))
+test_6: self.assertEqual("100100", solve(9999))
+test_7: self.assertEqual("1", solve(10))

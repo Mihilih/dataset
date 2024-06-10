@@ -1,0 +1,6 @@
+test_0: self.assertEqual([0, 2, 3, 5, 9, 123], unique([5, 3, 5, 2, 3, 3, 9, 0, 123]))
+test_1: self.assertEqual([1.1, 1.5142493540603779, 2.2, 3.0219968583931567, 3.4145447979043606, 4.4], unique([3.4145447979043606, 1.5142493540603779, 1.1, 2.2, 2.2, 4.4, 4.4, 3.0219968583931567, 2.2]))
+test_2: self.assertEqual([None], unique([None, None, None, None]))
+test_3: self.assertEqual([], unique([]))
+test_4: self.assertEqual([-1, 1], unique([-1, 1]))
+test_5: self.assertEqual(['alQd', 'banana', 'dapple', 'oralQdnge'], unique(['alQd', 'dapple', 'banana', 'oralQdnge']))

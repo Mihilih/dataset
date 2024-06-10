@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_160Test
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.example.HumanEval_160Test
+testDoAlgebra1(com.example.HumanEval_160Test)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_160
+	at com.example.HumanEval_160Test.testDoAlgebra1(HumanEval_160Test.java:10)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_160
+	at com.example.HumanEval_160Test.testDoAlgebra1(HumanEval_160Test.java:10)
+
+testDoAlgebra2(com.example.HumanEval_160Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_160
+	at com.example.HumanEval_160Test.testDoAlgebra2(HumanEval_160Test.java:15)
+
+testDoAlgebra3(com.example.HumanEval_160Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_160
+	at com.example.HumanEval_160Test.testDoAlgebra3(HumanEval_160Test.java:20)
+
+testDoAlgebra4(com.example.HumanEval_160Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_160
+	at com.example.HumanEval_160Test.testDoAlgebra4(HumanEval_160Test.java:25)
+
+testDoAlgebra5(com.example.HumanEval_160Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_160
+	at com.example.HumanEval_160Test.testDoAlgebra5(HumanEval_160Test.java:30)
+

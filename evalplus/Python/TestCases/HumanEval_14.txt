@@ -1,0 +1,8 @@
+test_0: self.assertEqual([], all_prefixes(''))
+test_1: self.assertEqual(['a', 'as', 'asd', 'asdf', 'asdfg', 'asdfgh'], all_prefixes('asdfgh'))
+test_2: self.assertEqual(['W', 'WW', 'WWW'], all_prefixes('WWW'))
+test_3: self.assertEqual(['H', 'He', 'Hel', 'Hell', 'Hello', 'Hello ', 'Hello t', 'Hello th', 'Hello the', 'Hello ther', 'Hello there', 'Hello there!'], all_prefixes('Hello there!'))
+test_4: self.assertEqual(['r', 'ra', 'rac', 'race', 'racec', 'racecH', 'racecHe', 'racecHel', 'racecHell', 'racecHello', 'racecHello ', 'racecHello t', 'racecHello th', 'racecHello the', 'racecHello ther', 'racecHello therr', 'racecHello therre', 'racecHello therre!', 'racecHello therre!a', 'racecHello therre!ar'], all_prefixes('racecHello therre!ar'))
+test_5: self.assertEqual([], all_prefixes(''))
+test_6: self.assertEqual(['n'], all_prefixes('n'))
+test_7: self.assertEqual(['x', 'xx'], all_prefixes('xx'))

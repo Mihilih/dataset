@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.HumanEval_113Test" time="0" tests="7" errors="0" skipped="0" failures="6">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/test-classes:/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/classes:/Users/alibrahimzada/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/alibrahimzada/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk@11/11.0.19/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/surefire/surefirebooter6052732100926489616.jar /Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/surefire 2023-07-25T11-43-44_620-jvmRun1 surefire16618021492207608731tmp surefire_07620586763903104396tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/test-classes:/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/classes:/Users/alibrahimzada/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/alibrahimzada/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/alibrahimzada"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="/opt/homebrew/Cellar/openjdk@11/11.0.19/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java/target/surefire/surefirebooter6052732100926489616.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.19+0"/>
+    <property name="user.name" value="alibrahimzada"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="13.4.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/alibrahimzada/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/7v/x94xqh117b57n4p7hr_3whs80000gn/T/"/>
+    <property name="java.version" value="11.0.19"/>
+    <property name="user.dir" value="/Users/alibrahimzada/Documents/ibm/llmempirical/evalplus/evalplus_java"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/alibrahimzada/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="11.0.19+0"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="maven.test.failure.ignore" value="true"/>
+  </properties>
+  <testcase name="testOddCount1" classname="com.example.HumanEval_113Test" time="0">
+    <failure message="expected:&lt;[the number of odd elements 4 in the string 4 of the input.]&gt; but was:&lt;[the number of odd elements 4n the str4ng 4 of the 4nput.]&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<[the number of odd elements 4 in the string 4 of the input.]> but was:<[the number of odd elements 4n the str4ng 4 of the 4nput.]>
+	at com.example.HumanEval_113Test.testOddCount1(HumanEval_113Test.java:16)
+]]></failure>
+  </testcase>
+  <testcase name="testOddCount2" classname="com.example.HumanEval_113Test" time="0">
+    <failure message="expected:&lt;[the number of odd elements 1 in the string 1 of the input., the number of odd elements 8 in the string 8 of the input.]&gt; but was:&lt;[the number of odd elements 1n the str1ng 1 of the 1nput., the number of odd elements 8n the str8ng 8 of the 8nput.]&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<[the number of odd elements 1 in the string 1 of the input., the number of odd elements 8 in the string 8 of the input.]> but was:<[the number of odd elements 1n the str1ng 1 of the 1nput., the number of odd elements 8n the str8ng 8 of the 8nput.]>
+	at com.example.HumanEval_113Test.testOddCount2(HumanEval_113Test.java:23)
+]]></failure>
+  </testcase>
+  <testcase name="testOddCount3" classname="com.example.HumanEval_113Test" time="0">
+    <failure message="expected:&lt;[the number of odd elements 2 in the string 2 of the input., the number of odd elements 3 in the string 3 of the input., the number of odd elements 2 in the string 2 of the input.]&gt; but was:&lt;[the number of odd elements 2n the str2ng 2 of the 2nput., the number of odd elements 3n the str3ng 3 of the 3nput., the number of odd elements 2n the str2ng 2 of the 2nput.]&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<[the number of odd elements 2 in the string 2 of the input., the number of odd elements 3 in the string 3 of the input., the number of odd elements 2 in the string 2 of the input.]> but was:<[the number of odd elements 2n the str2ng 2 of the 2nput., the number of odd elements 3n the str3ng 3 of the 3nput., the number of odd elements 2n the str2ng 2 of the 2nput.]>
+	at com.example.HumanEval_113Test.testOddCount3(HumanEval_113Test.java:30)
+]]></failure>
+  </testcase>
+  <testcase name="testOddCount4" classname="com.example.HumanEval_113Test" time="0">
+    <failure message="expected:&lt;[the number of odd elements 0 in the string 0 of the input.]&gt; but was:&lt;[the number of odd elements 0n the str0ng 0 of the 0nput.]&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<[the number of odd elements 0 in the string 0 of the input.]> but was:<[the number of odd elements 0n the str0ng 0 of the 0nput.]>
+	at com.example.HumanEval_113Test.testOddCount4(HumanEval_113Test.java:37)
+]]></failure>
+  </testcase>
+  <testcase name="testOddCount5" classname="com.example.HumanEval_113Test" time="0">
+    <failure message="expected:&lt;[the number of odd elements 5 in the string 5 of the input., the number of odd elements 0 in the string 0 of the input., the number of odd elements 3 in the string 3 of the input.]&gt; but was:&lt;[the number of odd elements 5n the str5ng 5 of the 5nput., the number of odd elements 0n the str0ng 0 of the 0nput., the number of odd elements 3n the str3ng 3 of the 3nput.]&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<[the number of odd elements 5 in the string 5 of the input., the number of odd elements 0 in the string 0 of the input., the number of odd elements 3 in the string 3 of the input.]> but was:<[the number of odd elements 5n the str5ng 5 of the 5nput., the number of odd elements 0n the str0ng 0 of the 0nput., the number of odd elements 3n the str3ng 3 of the 3nput.]>
+	at com.example.HumanEval_113Test.testOddCount5(HumanEval_113Test.java:44)
+]]></failure>
+  </testcase>
+  <testcase name="testOddCount6" classname="com.example.HumanEval_113Test" time="0">
+    <failure message="expected:&lt;[the number of odd elements 4 in the string 4 of the input., the number of odd elements 5 in the string 5 of the input., the number of odd elements 4 in the string 4 of the input.]&gt; but was:&lt;[the number of odd elements 4n the str4ng 4 of the 4nput., the number of odd elements 5n the str5ng 5 of the 5nput., the number of odd elements 4n the str4ng 4 of the 4nput.]&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<[the number of odd elements 4 in the string 4 of the input., the number of odd elements 5 in the string 5 of the input., the number of odd elements 4 in the string 4 of the input.]> but was:<[the number of odd elements 4n the str4ng 4 of the 4nput., the number of odd elements 5n the str5ng 5 of the 5nput., the number of odd elements 4n the str4ng 4 of the 4nput.]>
+	at com.example.HumanEval_113Test.testOddCount6(HumanEval_113Test.java:51)
+]]></failure>
+  </testcase>
+  <testcase name="testOddCount7" classname="com.example.HumanEval_113Test" time="0"/>
+</testsuite>

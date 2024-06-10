@@ -1,0 +1,5 @@
+test_0: self.assertEqual([], filter_integers([]))
+test_1: self.assertEqual([4, 9], filter_integers([4, {}, [], 23.2, 9, 'adasd']))
+test_2: self.assertEqual([3, 3, 3], filter_integers([3, 'c', 3, 3, 'a', 'b']))
+test_3: self.assertEqual([1, 2, 3, 4, 5], filter_integers([1, 2, 3, 4, 5]))
+test_4: self.assertEqual([0, -10], filter_integers([True, False, None, 0, -10, 'test', [], {}, 3.14]))

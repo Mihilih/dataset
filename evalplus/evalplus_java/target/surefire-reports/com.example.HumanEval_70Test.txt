@@ -1,0 +1,50 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_70Test
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 11, Skipped: 0, Time elapsed: 0.037 s <<< FAILURE! - in com.example.HumanEval_70Test
+testStrangeSortList1(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList1(HumanEval_70Test.java:13)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList1(HumanEval_70Test.java:13)
+
+testStrangeSortList2(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList2(HumanEval_70Test.java:19)
+
+testStrangeSortList3(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList3(HumanEval_70Test.java:25)
+
+testStrangeSortList4(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList4(HumanEval_70Test.java:31)
+
+testStrangeSortList5(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList5(HumanEval_70Test.java:37)
+
+testStrangeSortList6(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList6(HumanEval_70Test.java:43)
+
+testStrangeSortList7(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList7(HumanEval_70Test.java:49)
+
+testStrangeSortList8(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList8(HumanEval_70Test.java:55)
+
+testStrangeSortList9(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList9(HumanEval_70Test.java:61)
+
+testStrangeSortList10(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList10(HumanEval_70Test.java:67)
+
+testStrangeSortList11(com.example.HumanEval_70Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_70
+	at com.example.HumanEval_70Test.testStrangeSortList11(HumanEval_70Test.java:73)
+

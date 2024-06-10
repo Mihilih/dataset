@@ -1,0 +1,8 @@
+test_0: self.assertEqual(0, strlen(''))
+test_1: self.assertEqual(1, strlen('x'))
+test_2: self.assertEqual(9, strlen('asdasnakj'))
+test_3: self.assertEqual(51, strlen('  \r  \n   àèì t   1t  The    òõùáéíóúýâêîôûãñõäëïöüÿ'))
+test_4: self.assertEqual(0, strlen(''))
+test_5: self.assertEqual(26, strlen('abcdefghijklmnopqrstuvwxyz'))
+test_6: self.assertEqual(13, strlen('Hello, World!'))
+test_7: self.assertEqual(1, strlen(' '))

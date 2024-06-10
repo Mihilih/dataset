@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_78Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.019 s <<< FAILURE! - in com.example.HumanEval_78Test
+initializationError(com.example.HumanEval_78Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Lcom/example/HumanEval_78;
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_78
+

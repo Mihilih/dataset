@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_87Test
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.015 s <<< FAILURE! - in com.example.HumanEval_87Test
+test_12(com.example.HumanEval_87Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_87
+	at com.example.HumanEval_87Test.test_12(HumanEval_87Test.java:52)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_87
+	at com.example.HumanEval_87Test.test_12(HumanEval_87Test.java:52)
+
+test_0(com.example.HumanEval_87Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_87
+	at com.example.HumanEval_87Test.test_0(HumanEval_87Test.java:14)
+
+test_1(com.example.HumanEval_87Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_87
+	at com.example.HumanEval_87Test.test_1(HumanEval_87Test.java:32)
+
+test_3(com.example.HumanEval_87Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_87
+	at com.example.HumanEval_87Test.test_3(HumanEval_87Test.java:42)
+
