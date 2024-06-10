@@ -1,0 +1,7 @@
+test_0: self.assertEqual("db0db", decimal_to_binary(0))
+test_1: self.assertEqual("db100000db", decimal_to_binary(32))
+test_2: self.assertEqual("db1100111db", decimal_to_binary(103))
+test_3: self.assertEqual("db1111db", decimal_to_binary(15))
+test_4: self.assertEqual("db11000011010100001db", decimal_to_binary(100001))
+test_5: self.assertEqual("db0db", decimal_to_binary(0))
+test_6: self.assertEqual("db111db", decimal_to_binary(7))

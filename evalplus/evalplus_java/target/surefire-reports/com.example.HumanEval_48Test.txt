@@ -1,0 +1,74 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_48Test
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 17, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.HumanEval_48Test
+testIsPalindrome_0(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_0(HumanEval_48Test.java:9)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_0(HumanEval_48Test.java:9)
+
+testIsPalindrome_1(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_1(HumanEval_48Test.java:14)
+
+testIsPalindrome_2(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_2(HumanEval_48Test.java:19)
+
+testIsPalindrome_3(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_3(HumanEval_48Test.java:24)
+
+testIsPalindrome_4(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_4(HumanEval_48Test.java:29)
+
+testIsPalindrome_5(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_5(HumanEval_48Test.java:34)
+
+testIsPalindrome_6(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_6(HumanEval_48Test.java:39)
+
+testIsPalindrome_7(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_7(HumanEval_48Test.java:44)
+
+testIsPalindrome_8(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_8(HumanEval_48Test.java:49)
+
+testIsPalindrome_9(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_9(HumanEval_48Test.java:54)
+
+testIsPalindrome_10(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_10(HumanEval_48Test.java:59)
+
+testIsPalindrome_11(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_11(HumanEval_48Test.java:64)
+
+testIsPalindrome_12(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_12(HumanEval_48Test.java:69)
+
+testIsPalindrome_13(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_13(HumanEval_48Test.java:74)
+
+testIsPalindrome_14(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_14(HumanEval_48Test.java:79)
+
+testIsPalindrome_15(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_15(HumanEval_48Test.java:84)
+
+testIsPalindrome_16(com.example.HumanEval_48Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_48
+	at com.example.HumanEval_48Test.testIsPalindrome_16(HumanEval_48Test.java:89)
+

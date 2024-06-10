@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_31Test
+-------------------------------------------------------------------------------
+Tests run: 28, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.043 s <<< FAILURE! - in com.example.HumanEval_31Test
+testIsPrime_3(com.example.HumanEval_31Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<false> but was:<true>
+	at com.example.HumanEval_31Test.testIsPrime_3(HumanEval_31Test.java:24)
+
+testIsPrime_15(com.example.HumanEval_31Test)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Expected exception: java.lang.IllegalArgumentException
+
+testIsPrime_21(com.example.HumanEval_31Test)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Expected exception: java.lang.IllegalArgumentException
+

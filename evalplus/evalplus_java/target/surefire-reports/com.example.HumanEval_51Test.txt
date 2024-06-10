@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_51Test
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 12, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.example.HumanEval_51Test
+testRemoveVowels1(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels1(HumanEval_51Test.java:8)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels1(HumanEval_51Test.java:8)
+
+testRemoveVowels2(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels2(HumanEval_51Test.java:13)
+
+testRemoveVowels3(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels3(HumanEval_51Test.java:18)
+
+testRemoveVowels4(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels4(HumanEval_51Test.java:23)
+
+testRemoveVowels5(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels5(HumanEval_51Test.java:28)
+
+testRemoveVowels6(com.example.HumanEval_51Test)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels6(HumanEval_51Test.java:33)
+
+testRemoveVowels7(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels7(HumanEval_51Test.java:38)
+
+testRemoveVowels8(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels8(HumanEval_51Test.java:43)
+
+testRemoveVowels9(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels9(HumanEval_51Test.java:48)
+
+testRemoveVowels10(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels10(HumanEval_51Test.java:53)
+
+testRemoveVowels11(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels11(HumanEval_51Test.java:58)
+
+testRemoveVowels12(com.example.HumanEval_51Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_51
+	at com.example.HumanEval_51Test.testRemoveVowels12(HumanEval_51Test.java:63)
+

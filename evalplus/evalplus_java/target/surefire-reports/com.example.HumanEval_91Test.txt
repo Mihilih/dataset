@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_91Test
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.HumanEval_91Test
+testIsBored9(com.example.HumanEval_91Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<3>
+	at com.example.HumanEval_91Test.testIsBored9(HumanEval_91Test.java:54)
+
+testIsBored11(com.example.HumanEval_91Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<1>
+	at com.example.HumanEval_91Test.testIsBored11(HumanEval_91Test.java:64)
+

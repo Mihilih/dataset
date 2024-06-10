@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_2Test
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.HumanEval_2Test
+testTruncateNumber0(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber0(HumanEval_2Test.java:10)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber0(HumanEval_2Test.java:10)
+
+testTruncateNumber1(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber1(HumanEval_2Test.java:15)
+
+testTruncateNumber2(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber2(HumanEval_2Test.java:20)
+
+testTruncateNumber3(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber3(HumanEval_2Test.java:25)
+
+testTruncateNumber4(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber4(HumanEval_2Test.java:30)
+
+testTruncateNumber5(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber5(HumanEval_2Test.java:35)
+
+testTruncateNumber6(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber6(HumanEval_2Test.java:40)
+
+testTruncateNumber7(com.example.HumanEval_2Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_2
+	at com.example.HumanEval_2Test.testTruncateNumber7(HumanEval_2Test.java:45)
+

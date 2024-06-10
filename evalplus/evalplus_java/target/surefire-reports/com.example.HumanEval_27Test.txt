@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_27Test
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.HumanEval_27Test
+testFlipCase5(com.example.HumanEval_27Test)  Time elapsed: 0 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...ICK bROWN fox jumpΜΧ[ΗΙ]s oVER THE LAZY DOGএ...> but was:<...ICK bROWN fox jumpΜΧ[ῌ]s oVER THE LAZY DOGএ...>
+	at com.example.HumanEval_27Test.testFlipCase5(HumanEval_27Test.java:28)
+

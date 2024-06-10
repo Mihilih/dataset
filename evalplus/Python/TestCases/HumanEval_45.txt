@@ -1,0 +1,7 @@
+test_0: self.assertEqual(7.5, triangle_area(5, 3))
+test_1: self.assertEqual(2.0, triangle_area(2, 2))
+test_2: self.assertEqual(40.0, triangle_area(10, 8))
+test_3: self.assertEqual(12.0, triangle_area(4, 6))
+test_4: self.assertEqual(46.25133642960714, triangle_area(0.09250267285921429, 1000))
+test_5: self.assertEqual(7.0, triangle_area(7, 2))
+test_6: self.assertEqual(12.5, triangle_area(5, 5))

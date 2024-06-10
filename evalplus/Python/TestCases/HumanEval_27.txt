@@ -1,0 +1,7 @@
+test_0: self.assertEqual("", flip_case(''))
+test_1: self.assertEqual("hELLO!", flip_case('Hello!'))
+test_2: self.assertEqual("tHESE VIOLENT DELIGHTS HAVE VIOLENT ENDS", flip_case('These violent delights have violent ends'))
+test_3: self.assertEqual("123ABC", flip_case('123abc'))
+test_4: self.assertEqual("кАРЛ У кЛАРЫ УКРАЛ КОРАЛЛЫ, А к ЛАРА У кУАРЛА УКРАЛА КЛАРНЕТTtHE qUICK bROWN fox jumpΜΧΗΙs oVER THE LAZY DOGএএটি একটি ণউদাহরণক্T্ত কPমO CO.্ষেত্রhEsÍ,ЛАРА", flip_case('Карл у Клары украл кораллы, а К лара у Куарла украла кларнетtThe Quick Brown FOX JUMPμχῃS Over the lazy dogএএটি একটি ণউদাহরণক্t্ত কpমo co.্ষেত্রHeSí,лара'))
+test_5: self.assertEqual("", flip_case(''))
+test_6: self.assertEqual("REкАРЛ У кЛАРЫ УКРАЛ КОРАЛЛЫ, А ", flip_case('reКарл у Клары украл кораллы, а '))

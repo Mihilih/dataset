@@ -1,0 +1,8 @@
+test_0: self.assertEqual([2, 4, 6, 8], generate_integers(2, 10))
+test_1: self.assertEqual([2, 4, 6, 8], generate_integers(10, 2))
+test_2: self.assertEqual([2, 4, 6, 8], generate_integers(132, 2))
+test_3: self.assertEqual([], generate_integers(17, 89))
+test_4: self.assertEqual([6, 8], generate_integers(6, 12))
+test_5: self.assertEqual([4], generate_integers(5, 4))
+test_6: self.assertEqual([6, 8], generate_integers(12, 5))
+test_7: self.assertEqual([], generate_integers(50, 60))

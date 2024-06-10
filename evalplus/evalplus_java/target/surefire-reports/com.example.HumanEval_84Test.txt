@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_84Test
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.example.HumanEval_84Test
+testSolve_0(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_0(HumanEval_84Test.java:10)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_0(HumanEval_84Test.java:10)
+
+testSolve_1(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_1(HumanEval_84Test.java:15)
+
+testSolve_2(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_2(HumanEval_84Test.java:20)
+
+testSolve_3(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_3(HumanEval_84Test.java:25)
+
+testSolve_4(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_4(HumanEval_84Test.java:30)
+
+testSolve_5(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_5(HumanEval_84Test.java:35)
+
+testSolve_6(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_6(HumanEval_84Test.java:40)
+
+testSolve_7(com.example.HumanEval_84Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_84
+	at com.example.HumanEval_84Test.testSolve_7(HumanEval_84Test.java:45)
+

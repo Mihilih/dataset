@@ -1,0 +1,8 @@
+test_0: self.assertEqual(6, max_fill([[0, 0, 1, 0], [0, 1, 0, 0], [1, 1, 1, 1]], 1))
+test_1: self.assertEqual(5, max_fill([[0, 0, 1, 1], [0, 0, 0, 0], [1, 1, 1, 1], [0, 1, 1, 1]], 2))
+test_2: self.assertEqual(0, max_fill([[0, 0, 0], [0, 0, 0]], 5))
+test_3: self.assertEqual(4, max_fill([[1, 1, 1, 1], [1, 1, 1, 1]], 2))
+test_4: self.assertEqual(2, max_fill([[1, 1, 1, 1], [1, 1, 1, 1]], 9))
+test_5: self.assertEqual(5, max_fill([[1, 0, 0, 1], [0, 1, 1, 1], [0, 0, 0, 0], [1, 0, 1, 1]], 2))
+test_6: self.assertEqual(5, max_fill([[0, 0, 1, 0], [0, 0, 1, 0], [1, 1, 1, 1], [0, 0, 1, 0]], 2))
+test_7: self.assertEqual(7, max_fill([[0, 1, 1], [0, 1, 1], [1, 0, 1], [1, 1, 1], [1, 1, 1], [0, 1, 1], [1, 1, 1]], 4))

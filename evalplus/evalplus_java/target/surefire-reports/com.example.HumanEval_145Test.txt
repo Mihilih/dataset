@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_145Test
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.HumanEval_145Test
+testOrderByPoints_0(com.example.HumanEval_145Test)  Time elapsed: 0 s  <<< FAILURE!
+org.junit.internal.ArrayComparisonFailure: arrays first differed at element [0]; expected:<-1> but was:<-12>
+	at com.example.HumanEval_145Test.testOrderByPoints_0(HumanEval_145Test.java:10)
+
+testOrderByPoints_3(com.example.HumanEval_145Test)  Time elapsed: 0 s  <<< FAILURE!
+org.junit.internal.ArrayComparisonFailure: arrays first differed at element [0]; expected:<-3> but was:<-98>
+	at com.example.HumanEval_145Test.testOrderByPoints_3(HumanEval_145Test.java:31)
+

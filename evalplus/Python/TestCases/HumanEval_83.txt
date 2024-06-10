@@ -1,0 +1,7 @@
+test_0: self.assertEqual(1, starts_one_ends(1))
+test_1: self.assertEqual(18, starts_one_ends(2))
+test_2: self.assertEqual(180, starts_one_ends(3))
+test_3: self.assertEqual(1800, starts_one_ends(4))
+test_4: self.assertEqual(18000, starts_one_ends(5))
+test_5: self.assertEqual(180000, starts_one_ends(6))
+test_6: self.assertEqual(1800000000, starts_one_ends(10))

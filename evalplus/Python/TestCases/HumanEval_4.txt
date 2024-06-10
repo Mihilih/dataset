@@ -1,0 +1,8 @@
+test_0: self.assertEqual(0.6666666666666666, mean_absolute_deviation([1.0, 2.0, 3.0]))
+test_1: self.assertEqual(1.0, mean_absolute_deviation([1.0, 2.0, 3.0, 4.0]))
+test_2: self.assertEqual(1.2, mean_absolute_deviation([1.0, 2.0, 3.0, 4.0, 5.0]))
+test_3: self.assertEqual(2.32, mean_absolute_deviation([-1.0, 4.5, 0.0, 2.5, -3.0]))
+test_4: self.assertEqual(0.5, mean_absolute_deviation([1.0, 1.0, 1.0, 2.0, 2.0, 2.0]))
+test_5: self.assertEqual(2.39294267546591, mean_absolute_deviation([0.0, 0.0, 0.0, 5.0, 0.0, 5.7682420395965925]))
+test_6: self.assertEqual(0.0, mean_absolute_deviation([1e+308]))
+test_7: self.assertEqual(2.0, mean_absolute_deviation([-2.0, 2.0]))

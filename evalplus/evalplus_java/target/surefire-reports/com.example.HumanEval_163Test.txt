@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_163Test
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 6, Errors: 2, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.example.HumanEval_163Test
+testGenerateIntegers1(com.example.HumanEval_163Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: array lengths differed, expected.length=4 actual.length=8
+	at com.example.HumanEval_163Test.testGenerateIntegers1(HumanEval_163Test.java:10)
+
+testGenerateIntegers2(com.example.HumanEval_163Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: array lengths differed, expected.length=4 actual.length=8
+	at com.example.HumanEval_163Test.testGenerateIntegers2(HumanEval_163Test.java:16)
+
+testGenerateIntegers3(com.example.HumanEval_163Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: array lengths differed, expected.length=4 actual.length=8
+	at com.example.HumanEval_163Test.testGenerateIntegers3(HumanEval_163Test.java:22)
+
+testGenerateIntegers4(com.example.HumanEval_163Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NegativeArraySizeException: -7
+	at com.example.HumanEval_163Test.testGenerateIntegers4(HumanEval_163Test.java:28)
+
+testGenerateIntegers5(com.example.HumanEval_163Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: array lengths differed, expected.length=2 actual.length=4
+	at com.example.HumanEval_163Test.testGenerateIntegers5(HumanEval_163Test.java:34)
+
+testGenerateIntegers6(com.example.HumanEval_163Test)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: array lengths differed, expected.length=1 actual.length=2
+	at com.example.HumanEval_163Test.testGenerateIntegers6(HumanEval_163Test.java:40)
+
+testGenerateIntegers7(com.example.HumanEval_163Test)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: array lengths differed, expected.length=2 actual.length=5
+	at com.example.HumanEval_163Test.testGenerateIntegers7(HumanEval_163Test.java:46)
+
+testGenerateIntegers8(com.example.HumanEval_163Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NegativeArraySizeException: -40
+	at com.example.HumanEval_163Test.testGenerateIntegers8(HumanEval_163Test.java:52)
+

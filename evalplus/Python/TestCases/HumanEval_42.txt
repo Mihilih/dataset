@@ -1,0 +1,8 @@
+test_0: self.assertEqual([], incr_list([]))
+test_1: self.assertEqual([4, 3, 2], incr_list([3, 2, 1]))
+test_2: self.assertEqual([6, 3, 6, 3, 4, 4, 10, 1, 124], incr_list([5, 2, 5, 2, 3, 3, 9, 0, 123]))
+test_3: self.assertEqual([101, 201, 301, 401, 501], incr_list([100, 200, 300, 400, 500]))
+test_4: self.assertEqual([-9, 1, 11, 1], incr_list([-10, 0, 10, 0]))
+test_5: self.assertEqual([2, 5, 7, 9, 11, 15, 10, 17, 21, 21], incr_list([1, 4, 6, 8, 10, 14, 9, 16, 20, 20]))
+test_6: self.assertEqual([3.5], incr_list([2.5]))
+test_7: self.assertEqual([], incr_list([]))

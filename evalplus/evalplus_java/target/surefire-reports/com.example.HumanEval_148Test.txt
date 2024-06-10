@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_148Test
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.008 s <<< FAILURE! - in com.example.HumanEval_148Test
+test_4(com.example.HumanEval_148Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NegativeArraySizeException: -1
+	at com.example.HumanEval_148Test.test_4(HumanEval_148Test.java:24)
+

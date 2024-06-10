@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_86Test
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.example.HumanEval_86Test
+testAntiShuffle9(com.example.HumanEval_86Test)  Time elapsed: 0 s  <<< FAILURE!
+org.junit.ComparisonFailure: 
+expected:<[
+
+]123 
+
+456789> but was:<[]123 
+
+456789>
+	at com.example.HumanEval_86Test.testAntiShuffle9(HumanEval_86Test.java:49)
+
+testAntiShuffle10(com.example.HumanEval_86Test)  Time elapsed: 0 s  <<< FAILURE!
+org.junit.ComparisonFailure: 
+expected:<[ 	
+G HTeh I      ]> but was:<[G HTeh I]>
+	at com.example.HumanEval_86Test.testAntiShuffle10(HumanEval_86Test.java:54)
+

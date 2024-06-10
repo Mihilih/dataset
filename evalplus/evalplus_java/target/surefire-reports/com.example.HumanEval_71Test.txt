@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+Test set: com.example.HumanEval_71Test
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 16, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.example.HumanEval_71Test
+testTriangleArea_0(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_0(HumanEval_71Test.java:10)
+Caused by: java.lang.ClassNotFoundException: com.example.HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_0(HumanEval_71Test.java:10)
+
+testTriangleArea_1(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_1(HumanEval_71Test.java:15)
+
+testTriangleArea_2(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_2(HumanEval_71Test.java:20)
+
+testTriangleArea_3(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_3(HumanEval_71Test.java:25)
+
+testTriangleArea_4(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_4(HumanEval_71Test.java:30)
+
+testTriangleArea_5(com.example.HumanEval_71Test)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_5(HumanEval_71Test.java:35)
+
+testTriangleArea_6(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_6(HumanEval_71Test.java:40)
+
+testTriangleArea_7(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_7(HumanEval_71Test.java:45)
+
+testTriangleArea_8(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_8(HumanEval_71Test.java:50)
+
+testTriangleArea_9(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_9(HumanEval_71Test.java:55)
+
+testTriangleArea_10(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_10(HumanEval_71Test.java:60)
+
+testTriangleArea_11(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_11(HumanEval_71Test.java:65)
+
+testTriangleArea_12(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_12(HumanEval_71Test.java:70)
+
+testTriangleArea_13(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_13(HumanEval_71Test.java:75)
+
+testTriangleArea_14(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_14(HumanEval_71Test.java:80)
+
+testTriangleArea_15(com.example.HumanEval_71Test)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/HumanEval_71
+	at com.example.HumanEval_71Test.testTriangleArea_15(HumanEval_71Test.java:85)
+
